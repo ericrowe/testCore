@@ -7,4 +7,5 @@
 public enum ValueEnum {
     case one
     case two
+    case three
 }
